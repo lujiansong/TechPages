@@ -1,9 +1,6 @@
 
 ![lujiansong](Assets/Start.png)
-# TechPages
-## 二级标题
-
-**hello** *hello*
-1. hello
-- 1
-- 2
+# Technical Summary
+## PowerShell
+1. [认识PowerShell](PowerShell\1.认识PowerShell.md)
+2. [PowerShell的基本语法](PowerShell\2.PowerShell基本语法.md)
